@@ -24,6 +24,7 @@ I'm a DevOps Engineer specializing in Azure cloud and CI/CD automation with a st
 ### 🧑‍💻 Backend
 - Python
 - Django & REST APIs
+- Nodejs
 
 ### 🌐 Frontend
 - React
@@ -33,6 +34,7 @@ I'm a DevOps Engineer specializing in Azure cloud and CI/CD automation with a st
 - MySQL
 - PostgreSQL
 - MongoDB
+- MSSQL
 
 ### 🔧 Tools
 - Git & GitHub
